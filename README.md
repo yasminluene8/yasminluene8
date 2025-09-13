@@ -18,7 +18,7 @@
 ---
 
 ### 📫 Como me encontrar:
-(Adicione aqui seus contatos, como e-mail profissional ou redes sociais voltadas para estudo/trabalho, se quiser.)
+E-mail: yasminluene8@gmail.com
 
 ---
 
