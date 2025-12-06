@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou a Yasmim Luene
 
-🎓 Tenho **17 anos** e estou cursando o **3º ano do Ensino Médio**.
+🎓 Tenho **17 anos** e sou recem formada do **3º ano do Ensino Médio**.
 
 💻 Atualmente, estou fazendo um **curso de programação em Python**, onde estou desenvolvendo minhas habilidades na linguagem e aprendendo lógica de programação, automação e desenvolvimento de projetos.
 
