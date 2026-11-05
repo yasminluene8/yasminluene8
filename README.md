@@ -1,8 +1,8 @@
 # Olá! 👋 Eu sou a Yasmim Luene
 
-🎓 Tenho **17 anos** e recentemente conclui o **3º ano do Ensino Médio**.
+🎓 Tenho **18 anos** e recentemente conclui o **3º ano do Ensino Médio**.
 
-💻 Atualmente, estou fazendo um **curso de programação em Python**, onde estou desenvolvendo minhas habilidades na linguagem e aprendendo lógica de programação, automação e desenvolvimento de projetos.
+💻 Atualmente, estou no meu **2º Semestre na Faculdade de ADS na Mackenzie**, onde estou desenvolvendo minhas habilidades na linguagem e aprendendo lógica de programação, automação e desenvolvimento de projetos.
 
 🚀 Tenho interesse em aprender mais sobre desenvolvimento de software e explorar outras áreas da tecnologia no futuro.
 
